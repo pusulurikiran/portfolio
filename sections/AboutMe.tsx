@@ -20,35 +20,24 @@ const AboutMe = () => (
         <p>Hey there!</p>
 
         <p>
-          I&apos;m Amruth Pillai, and as you might have already read, I&apos;m a designer, developer, photographer and a
-          writer. This website was made to showcase all of what I can do and plan to do. Don&apos;t judge my writing
-          based on this section though, this is by far my shoddiest work yet.
+          Hello! I&apos;m Kiran Pusuluri, an avid , based in Hyderabad. This website is a little window into my world where I share my thoughts, projects, and passions.
         </p>
 
         <p>
-          I got into design because I consider myself a pseudo-perfectionist, if that&apos;s even a word? As in, I hate
-          to see things &apos;not look good&apos;. So I set out on a journey to make products that people use that
-          &apos;look great&apos;, and I&apos;m forever on that path.
+        A bit about me: I have a deep love for API development , and I spend a lot of my free time in reading and exploring new technologies. 
+        I believe in technology , and I strive to bring a bit of something positive into everything I do.
+        </p>
+
+       <p>
+       I&apos;m a passionate badminton player and an ardent fan of the sport. I draw immense inspiration from legends like Lee Chong Wei, Viktor Axelsen, and Srikanth Kidambi. Whether I&apos;m on the court or off, badminton is a huge part of my life, driving my dedication and enthusiasm
         </p>
 
         <p>
-          I got into development because computers have always fascinated me.<code>int i = 10;</code> creates an integer
-          of value 10? LIKE, WOW! But seriously, just seeing code getting converted to things we use regularly, like
-          Facebook or Amazon, was no less than magic to me and that&apos;s where my quest to invent began.
+        Here you&apos;ll find  blog posts, projects, photos. I hope you find something here that inspires you or makes you think.
+        Thank you for stopping by, and don&apos;t hesitate to reach out if you want to connect! 
+          <a href="#contact"> contact section</a> below and send me a text. I would love to hear from you!
         </p>
-
-        <p>
-          I got into photography for a very philosophical reason and a very weird one at that. To me, photography is no
-          less than time-travel. When I look at a photo, I am instantly transported to that moment in time when I shot
-          it, that memory takes over. It&apos;s a beautiful art form to express creativity as well, and it&apos;s been a
-          passion of mine since my childhood.
-        </p>
-
-        <p>
-          I created this website so I could showcase all this and through this process, make it easier for you to
-          connect with me. If you like what you see, head over to the <a href="#contact">contact section</a> below and
-          send me a text. I would love to hear from you!
-        </p>
+        
       </div>
     </div>
   </div>

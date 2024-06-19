@@ -3,10 +3,8 @@ import clsx from "clsx";
 import Image from "next/image";
 
 const photos: string[] = [
-  "/images/photo-wall/photo-3jn2.jpg",
-  "/images/photo-wall/photo-7sm2.jpg",
-  "/images/photo-wall/photo-9ns6.jpg",
-  "/images/photo-wall/photo-2js9.jpg",
+  "/images/photo-wall/IMG_6697.jpg",
+  "/images/photo-wall/IMG_6697 (1).jpg"
 ];
 
 type Props = {
@@ -24,7 +22,7 @@ const PhotoWall: React.FC<Props> = ({ size = 512 }) => {
             "relative transition-[width]",
             "animate__animated animate__fadeInDown",
             css`
-              width: ${size / 4}px;
+              width: ${size / 2}px;
               height: ${size}px;
 
               &:hover {
